@@ -1,0 +1,5 @@
+Basic CMD commands
+
+1. cd - change directory- used to change from one dir (directory) to another
+2. cls - clear - used to clear the contents of the cmd
+3. dir - lists contents of the current directory.
