@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lesson 1</title>
+</head>
+<!-- Tags -->
+Headings
+<h1>Welcome to Dolphine's Cafe</h1>
+<!--Paragraphs-->
+Paragraphs
+<p> <b>At Dolphine's Cafe we serve the best coffee and snacks in town.Enjoy cozy space to relax,chat,or even write code together!</p>
+<img src="images.png" alt="Cafe Photo">
+<br> 
+<hr>
+<p>Our selections include:</p>
+<ul>
+  <li>Capuccino</li>
+  <li>Blueberry Muffin</li>
+  <li>Chocolate Croissant</li>
+<hr>
+  <!-- Anchor tag -->
+<p>Check Out Our</p><a href="https://cafenairobi.com/?srsltid=AfmBOooPjGi38x3ttEPhfptGZGevCheUS6loLzjeMSuAXpw_SyEc4wQJ" target="_blank">Location on Google Maps</a>
+<hr>
+<h2>Book a Table</h2>
+<!-- form elements -->
+        <div>
+            <label>Name:</label><br>
+            <input name="name" type="text" placeholder="Enter your name">
+            <br><br>
+           
+            <label>Email:</label><br>
+            <input email="Email"type="text"placeholder="Enter your Email">
+            <br>
+        </div>
+        <div>
+            <br>
+            <label>Number of Guests:</label>
+            <br>
+        <select>
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+            </select>
+            <br><br>
+        <div>
+            <label>Speial Requests:</label> <br>
+            <textarea rows="10" cols="40" placeholder="Enter your requests here"></textarea>
+        </div>
+        <br><br>
+     <div>
+
+            <button>Reserve</button>
+
+        </div>
+        </form>
+
+
+
+</ul>
+
+<body>
+
+
+
+
